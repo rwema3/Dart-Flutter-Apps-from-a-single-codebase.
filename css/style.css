@@ -59,17 +59,6 @@ h1, h2, h3, h4, h5, h6 {
 
 /*--------------------------------------------------------------
 # Preloader
---------------------------------------------------------------*/
-#preloader {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  z-index: 9999;
-  overflow: hidden;
-  background: #fff;
-}
 
 #preloader:before {
   content: "";
@@ -142,7 +131,7 @@ h1, h2, h3, h4, h5, h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .nav-menu {
   padding: 0;
@@ -204,7 +193,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   position: fixed;
