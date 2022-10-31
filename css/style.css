@@ -333,7 +333,7 @@ section {
   left: calc(50% - 60px);
 }
 .section-title h2::after {
-  content: "";
+  
   position: absolute;
   display: block;
   width: 40px;
