@@ -31,6 +31,8 @@
 
           <div class="col-lg-4">
             <div class="portfolio-info">
+              <h3>Project information</h3>
+              <ul>
               
             </div>
             <div class="portfolio-description">
