@@ -26,7 +26,10 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-           
+                  <img src="assets/img/portfolio/portfolio-details-1.png" alt="">
+         
+
+          s
             </div>
             <div class="portfolio-description">
               <strong>Description</strong>
