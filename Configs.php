@@ -29,7 +29,9 @@
                   <img src="assets/img/portfolio/portfolio-details-1.png" alt="">
          
 
-          
+          <div class="col-lg-4">
+            <div class="portfolio-info">
+              
             </div>
             <div class="portfolio-description">
               <strong>Description</strong>
