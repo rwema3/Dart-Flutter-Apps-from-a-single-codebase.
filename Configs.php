@@ -33,6 +33,7 @@
             <div class="portfolio-info">
               <h3>Project information</h3>
               <ul>
+                <li><strong>Category</strong>: Web App</li>
               
             </div>
             <div class="portfolio-description">
