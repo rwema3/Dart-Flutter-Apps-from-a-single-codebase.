@@ -34,7 +34,8 @@
               <h3>Project information</h3>
               <ul>
                 <li><strong>Category</strong>: Web App</li>
-              
+                <li><strong>Django-python</strong></li>
+              </ul>
             </div>
             <div class="portfolio-description">
               <strong>Description</strong>
