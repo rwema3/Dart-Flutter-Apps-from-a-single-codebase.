@@ -10,7 +10,6 @@
 
 </head>
 
-<body>
 
   <main id="main">
     <section id="portfolio-details" class="portfolio-details">
