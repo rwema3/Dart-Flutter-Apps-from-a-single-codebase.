@@ -9,7 +9,7 @@
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
 
 </head>
-Heads of the parts!!
+
   <main id="main">
     <section id="portfolio-details" class="portfolio-details">
       <div class="container">
