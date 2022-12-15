@@ -8,8 +8,6 @@
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
 
-</head>
-
 
   <main id="main">
     <section id="portfolio-details" class="portfolio-details">
