@@ -8,10 +8,14 @@
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
 
+</head>
+
 
   <main id="main">
     <section id="portfolio-details" class="portfolio-details">
       <div class="container">
+
+        <div class="row gy-4">
 
           <div class="col-lg-8">
             <div class="portfolio-details-slider swiper">
