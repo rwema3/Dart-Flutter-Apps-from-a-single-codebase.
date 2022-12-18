@@ -10,10 +10,7 @@
 
 </head>
 
-  <main id="main">
-  <div class="swiper-wrapper Srt align-items-center">
-
-                <div class="swiper-slide">
+          <div class="swiper-slide">
                   <img src="assets/img/portfolio/portfolio-details-1.png" alt="">
                 </div>
 
