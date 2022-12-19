@@ -8,8 +8,6 @@
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
 
-<link rel="author" disabled href="<?php // DEBUG: define('', '');
- ?>"
 </head>
 
           <div class="swiper-slide">
