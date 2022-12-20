@@ -17,14 +17,23 @@
           </div>
 
           <div class="col-lg-4">
+            
             <div class="portfolio-info">
+
               <h3>Project information</h3>
+
               <ul>
+
                 <li><strong>Category</strong>: Web App</li>
+
                 <li><strong>Django-python</strong></li>
+
               </ul>
+
             </div>
+
             <div class="portfolio-description">
+
               <strong>Description</strong>
               <p>NowPay is a financial-wellness platform for employees in emerging markets. NowPay enables the workforce to better manage their budgets, overcome cash flow problems and avoid unexpected events by offering instant cash advances backed by the employee’s monthly salary.
               </p                                >
