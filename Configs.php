@@ -76,7 +76,7 @@
                    *
                    * Undocumented function long description
                    *
-                   * @param type var Descripti
+                   
                    * @return return type
                    */
                   register_shutdown_functionv
