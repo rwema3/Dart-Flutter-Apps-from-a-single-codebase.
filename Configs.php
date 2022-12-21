@@ -18,9 +18,6 @@
 
           <div class="col-lg-4">
 
-            <div class="portfolio-info">
-
-            
 
                 <li><strong>Category</strong>: Web App</li>
 
