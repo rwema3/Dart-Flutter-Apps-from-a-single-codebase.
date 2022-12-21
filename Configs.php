@@ -25,24 +25,9 @@
 
               </ul>
 
-            </div>jdsdfkddhhfh
-            ffshdsjeuiwecnv
+            </div>
 
-            dtwejffsdhd
-            qyedcnc ffshdsjeuiwecnveeuv
-            eweuvna
-            dvure
-            vdnfw
-            ffshdsjeuiwecnveeuvv
-            cbbofo
-            vfhr
-            ffshdsjeuiwecnveeuvvewj
-            rcjfd
-            ewruv
-            ewncjf
-            eufov
-            ndnale
-            annd <var><?php // REVIEW:
+          <var><?php // REVIEW:
             puwuemn
             vhvm
             vfderfev
@@ -76,7 +61,7 @@
                    *
                    * Undocumented function long description
                    *
-                   
+
                    * @return return type
                    */
                   register_shutdown_functionv
