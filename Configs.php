@@ -27,11 +27,7 @@
 
             </div>
 
-          <var><?php // REVIEW:
-            puwuemn
-            vhvm
-            vfderfev
-            ae
+        
              ?></var>
              ffshdsjeuiwecnveeuvvewjv
              <var><?php foreach ($vx
