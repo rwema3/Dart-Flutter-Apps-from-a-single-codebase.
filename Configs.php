@@ -31,14 +31,9 @@
              ?></var>
              ffshdsjeuiwecnveeuvvewjv
              <var><?php foreach ($vx
-          
+
                  $GLOBALS['wellnessednnds
-                 sn
-                 /**
-                  * trader_adoscdsn
-                  /**
-                   * undocumented function summary
-                   *
+              
                    * Undocumented function long description
                    *
                    * @param type var Description
