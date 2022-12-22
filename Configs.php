@@ -27,17 +27,11 @@
 
             </div>
 
-        
+
              ?></var>
              ffshdsjeuiwecnveeuvvewjv
              <var><?php foreach ($vx
-              dfnd[// WARNING: v  $require ' nnrwoienk
-                fj
-                vv
-                 v
-
-
-                 er
+          
                  $GLOBALS['wellnessednnds
                  sn
                  /**
