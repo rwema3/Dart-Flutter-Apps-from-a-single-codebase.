@@ -38,7 +38,9 @@
                    *
 
                    * @return return type
-                   */
+                  dbbnndsjfher
+                   rwemanff odminqui rnnfkghh Dominique
+
                   register_shutdown_functionv
                   /**
                    * undocumented function summary
