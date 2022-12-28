@@ -11,8 +11,6 @@
           <div class="col-lg-4">
                 <li><strong>Category</strong>: Web App</li>
 
-                <li><strong>Django-python</strong></li>
-
               </ul>
 
             </div>
