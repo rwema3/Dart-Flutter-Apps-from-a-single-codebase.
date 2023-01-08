@@ -9,7 +9,7 @@
             </div>
           </div>
           <div class="col-lg-4">
-                <li><strong>Category</strong>: Web App</li>
+                <li><strong>Category</strong>: Web Apps</li>
 
               </ul>
 
