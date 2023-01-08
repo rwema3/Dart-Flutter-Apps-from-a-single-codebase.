@@ -1,5 +1,7 @@
 <html lang="en">
 
+          <div class="swiper-slide">
+                  <img src="assets/img/portfolio/portfolio-details-1.png" alt="">
       
 
             </div>
