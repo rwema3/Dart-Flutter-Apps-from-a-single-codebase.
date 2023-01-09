@@ -4,6 +4,17 @@
                   <img src="assets/img/portfolio/portfolio-details-1.png" alt="">
                 </div>
 
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+                <li><strong>Category</strong>: Web Apps</li>
+
+              </ul>
+
+            </div>
+
 
              ?></var>
  
