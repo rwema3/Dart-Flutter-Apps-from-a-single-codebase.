@@ -6,9 +6,7 @@
 
               </div>
               <div class="swiper-pagination"></div>
-            </div>
-          </div>
-         
+        
             </div>
 
 
