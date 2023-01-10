@@ -6,6 +6,9 @@
 
               </div>
          
+            </div>
+
+
              ?></var>
  
              <var><?php foreach ($vx
