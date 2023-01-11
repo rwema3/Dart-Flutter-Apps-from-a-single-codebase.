@@ -11,11 +11,6 @@
           <div class="col-lg-4">
                 <li><strong>Category</strong>: Web Apps</li>
 
-              </ul>
-
-            </div>
-
-
              ?></var>
  
              <var><?php foreach ($vx
