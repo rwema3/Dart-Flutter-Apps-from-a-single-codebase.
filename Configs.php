@@ -7,7 +7,12 @@
               </div>
               <div class="swiper-pagination"></div>
             </div>
-        
+          </div>
+          <div class="col-lg-4">
+                <li><strong>Category</strong>: Web Apps</li>
+
+              </ul>
+
             </div>
 
 
