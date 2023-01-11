@@ -12,16 +12,6 @@
 
 
    
-                 $GLOBALS['wellnessednnds
-
-                   * Undocumented function long description
-                   *
-                   * @param type var Description
-                   parm sotiire cnnvhgkka require 'file';
-                   * @return return type
-                   */
-                  asinxccna
-
                   /**
                    * undocumented function summary
                    *
