@@ -63,6 +63,10 @@
                     // code...
                   }
                   */
+                 class ClassName extends AnotherClass
+                 {
+
+                   function __construct(argument)
                 
              <?php endforeach; ?></var>
 
