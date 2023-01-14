@@ -72,7 +72,3 @@
                    }
                  }
                  '] = something;'; = ['' => , ];] as $key => $value): ?>
-
-             <?php endforeach; ?></var>
-
-            <div class="portfolio-description">
