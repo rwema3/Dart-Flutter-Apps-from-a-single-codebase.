@@ -68,5 +68,3 @@
 
                    function __construct(argument)
                    {
-
-                  
