@@ -58,6 +58,11 @@
                   } FunctionName($value='')
                   {
                     // code...
+                  }unction FunctionName($value='')
+                  {
+                    // code...
+                  }
+                  */
                 
              <?php endforeach; ?></var>
 
