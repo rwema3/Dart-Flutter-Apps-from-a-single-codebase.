@@ -69,6 +69,3 @@
                    function __construct(argument)
                    {
                      // code...
-                   }
-                 }
-                 '] = something;'; = ['' => , ];] as $key => $value): ?>
