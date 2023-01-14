@@ -67,9 +67,6 @@
                  {
 
                    function __construct(argument)
-                   {
-                     // code...
-                   }
                 
              <?php endforeach; ?></var>
 
