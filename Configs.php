@@ -63,6 +63,3 @@
                     // code...
                   }
                   */
-                 class ClassName extends AnotherClass
-                 {
-
