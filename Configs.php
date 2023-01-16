@@ -1,11 +1,5 @@
 <html lang="en">
 
-        
-            </div>
-
-
-             ?></var>
- 
              <var><?php foreach ($vx
 
                  $GLOBALS['wellnessednnds
