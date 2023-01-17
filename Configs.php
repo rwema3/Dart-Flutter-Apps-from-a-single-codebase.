@@ -1,8 +1,5 @@
 <html lang="en">
 
-            </div>
-          </div>
-          <div class="col-lg-4">
                 <li><strong>Category</strong>: Web Apps</li>
 
               </ul>
