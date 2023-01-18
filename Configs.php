@@ -1,10 +1,6 @@
 <html lang="en">
 
          
-              </ul>
-
-            </div>
-
 
              ?></var>
  
