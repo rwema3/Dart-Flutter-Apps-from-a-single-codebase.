@@ -1,6 +1,8 @@
 <html lang="en">
 
          
+                 $GLOBALS['wellnessednnds
+
                    * Undocumented function long description
                    *
                    * @param type var Description
