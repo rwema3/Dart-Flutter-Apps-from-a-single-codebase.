@@ -1,8 +1,4 @@
-<html lang="en">
-
-                <li><strong>Category</strong>: Web Apps</li>
-
-                  /**
+            /**
                    * undocumented function summary
                    *
                    * Undocumented function long description
