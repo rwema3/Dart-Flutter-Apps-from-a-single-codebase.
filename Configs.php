@@ -2,12 +2,6 @@
 
                 <li><strong>Category</strong>: Web Apps</li>
 
-                   * @param type var Description
-                   parm sotiire cnnvhgkka require 'file';
-                   * @return return type
-                   */
-                  asinxccna
-
                   /**
                    * undocumented function summary
                    *
