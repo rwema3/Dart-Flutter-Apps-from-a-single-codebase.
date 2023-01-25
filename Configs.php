@@ -1,3 +1,8 @@
+                  register_shutdown_functionv
+                  /**
+                   * undocumented function summary
+                   *
+                   * Undocumented function long description
                    *
                    * @param type var Description
                    * @return return type
