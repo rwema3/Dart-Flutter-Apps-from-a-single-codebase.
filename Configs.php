@@ -8,14 +8,6 @@
 
 
                   /**
-                   * undocumented function summary
-                   *
-                   * Undocumented function long description
-                   *
-                   * @param type var Description
-                   * @return return type
-                   */
-                  ds
 
                   addslashescx
                   function FunctionName($value='')
