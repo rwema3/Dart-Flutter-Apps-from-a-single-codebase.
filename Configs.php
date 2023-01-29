@@ -12,17 +12,6 @@
                    *
                    * Undocumented function long description
                    *
-
-                   * @return return type
-                  dbbnndsjfher
-                   rwemanff odminqui rnnfkghh Dominique
-
-                  register_shutdown_functionv
-                  /**
-                   * undocumented function summary
-                   *
-                   * Undocumented function long description
-                   *
                    * @param type var Description
                    * @return return type
                    */
