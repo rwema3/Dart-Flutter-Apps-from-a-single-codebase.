@@ -1,3 +1,6 @@
+<html lang="en">
+
+                <li><strong>Category</strong>: Web Apps</li>
 
                   addslashescx
                   function FunctionName($value='')
