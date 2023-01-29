@@ -2,13 +2,6 @@
 
                 <li><strong>Category</strong>: Web Apps</li>
 
-              </ul>
-
-            </div>
-
-
-                  /**
-
                   addslashescx
                   function FunctionName($value='')
                   {
