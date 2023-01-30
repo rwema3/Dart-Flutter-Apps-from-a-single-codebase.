@@ -1,15 +1,6 @@
 <html lang="en">
 
               
-                   function __construct(argument)
-                   {
-                     // code...
-                   }
-                 }
-                 '] = something;'; = ['' => , ];] as $key => $value): ?>
-
-             <?php endforeach; ?></var>
-
             <div class="portfolio-description">
 
               <strong>Description</strong>
