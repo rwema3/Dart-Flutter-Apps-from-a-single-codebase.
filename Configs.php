@@ -1,7 +1,5 @@
 <html lang="en">
 
-                <li><strong>Category</strong>: Web Apps</li>
-
                    function __construct(argument)
                    {
                      // code...
