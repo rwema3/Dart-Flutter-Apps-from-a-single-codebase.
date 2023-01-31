@@ -1,6 +1,31 @@
 <html lang="en">
 
                 <li><strong>Category</strong>: Web Apps</li>
+
+                  addslashescx
+                  function FunctionName($value='')
+                  {
+               
+                  } FunctionName($value='')
+                  {
+                    // code...
+                  }unction FunctionName($value='')
+                  {
+                    // code...
+                  }
+                  */
+                 class ClassName extends AnotherClass
+                 {
+
+                   function __construct(argument)
+                   {
+                     // code...
+                   }
+                 }
+                 '] = something;'; = ['' => , ];] as $key => $value): ?>
+
+             <?php endforeach; ?></var>
+
             <div class="portfolio-description">
 
               <strong>Description</strong>
