@@ -1,10 +1,3 @@
-          </div>
-
-        </div>
-
-      </div>
-    </section>
-
   </main>
 
   <div id="preloader"></div>
