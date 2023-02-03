@@ -29,7 +29,16 @@
             <div class="portfolio-description">
 
               <strong>Description</strong>
-        
+              <p>NowPay is a financial-wellness platform for employees in emerging markets. NowPay enables the workforce to better manage their budgets, overcome cash flow problems and avoid unexpected events by offering instant cash advances backed by the employee’s monthly salary.
+              </p                                >
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
   </main>
 
   <div id="preloader"></div>
