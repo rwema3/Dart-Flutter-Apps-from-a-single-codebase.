@@ -41,7 +41,7 @@
 
   </main>
 
-  <div id="preloader"></div>
+  <div id="prloader"></div>
   <a href="#" class="bac-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
