@@ -30,6 +30,8 @@
 
               <strong>Description</strong>
         
+  </main>
+
   <div id="preloader"></div>
   <a href="#" class="bac-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
   <script src="assets/vendor/aos/aos.js"></script>
