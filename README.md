@@ -1,3 +1,3 @@
 # GitHub-_Authanticity
-GitH
+Git
 
