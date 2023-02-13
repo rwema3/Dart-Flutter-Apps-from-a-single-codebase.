@@ -1,3 +1,3 @@
 # GitHub-_Authanticity
-GitHub _Au
+GitHub _A
 
