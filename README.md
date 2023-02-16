@@ -1,3 +1,3 @@
-GitHub-_Authanticiti
+GitHub-_Authanticity
 
 
