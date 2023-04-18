@@ -5363,5 +5363,5 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 
 ## Contact
 
-- [github.com/dkhamsing](https://github.com/dkhamsing)
-- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)
+- [github.com/rwema](https://github.com/rwema3)
+- [twitter.com/rwema](https://twitter.com/R_w_e_m_a)
